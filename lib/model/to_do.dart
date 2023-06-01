@@ -17,9 +17,18 @@ class ToDo {
         id: '03',
         todoText: 'Check Emails',
       ),
-      ToDo(id: '04', todoText: 'Team Meeting', isDone: true),
-      ToDo(id: '05', todoText: 'Work on mobile apps for 2 hour', isDone: true),
-      ToDo(id: '06', todoText: 'Dinner with Yunu', isDone: true),
+      ToDo(
+        id: '04',
+        todoText: 'Team Meeting',
+      ),
+      ToDo(
+        id: '05',
+        todoText: 'Work on mobile apps for 2 hour',
+      ),
+      ToDo(
+        id: '06',
+        todoText: 'Dinner with Yunu',
+      ),
     ];
   }
 }
